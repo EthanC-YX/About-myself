@@ -1,6 +1,6 @@
 # About Myself
 
-Description: Student developer working to build projects. Happy to learn new languages and collaborate with others.
+Description: Student developer working to build projects. Happy to learn new programming languages and collaborate with others.
 
 Short intro to myself:
 
