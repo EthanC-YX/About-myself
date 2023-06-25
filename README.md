@@ -4,8 +4,8 @@ Description: Student developer working to build projects. Happy to learn new pro
 
 Short intro to myself:
 
-- Enjoy learning new programming languages
+- Enjoys learning new programming languages
 
 - Can work well with others or alone
 
-- Am receptive to feedback
+- Is receptive to feedback
